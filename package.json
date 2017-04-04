@@ -1,0 +1,19 @@
+{
+  "name": "shell-semver",
+  "version": "1.0.0",
+  "description": "Increment semantic versioning strings in shell scripts.",
+  "bin": {
+    "increment_version": "increment_version.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aendrew/shell-semver.git"
+  },
+  "keywords": [],
+  "author": "fmahnke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aendrew/shell-semver/issues"
+  },
+  "homepage": "https://github.com/aendrew/shell-semver#readme"
+}
